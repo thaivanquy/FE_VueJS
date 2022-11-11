@@ -6,7 +6,7 @@
         <a-list bordered style="width: 100%">
           <TheMenu/>
           <template #header>
-            <div>BẢNG ĐIỀU KHIỂN</div>
+            <div>DASHBOARD</div>
           </template>
         </a-list>
       </div>
